@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://iplogs.com/docs
 common:
+  - type: DomainSecurity
+    url: security/iplogs-domain-security.yml
+  - url: https://iplogs.com/blog
+    type: Blog
   - type: Website
     url: https://iplogs.com/docs
   - type: PublicAPIsListing
