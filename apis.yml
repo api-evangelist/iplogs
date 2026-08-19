@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/iplogs.png
 name: IPLogs
 description: "Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing."
 url: https://iplogs.com/docs
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
