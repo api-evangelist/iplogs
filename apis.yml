@@ -39,7 +39,6 @@ apis:
   - name: IPLogs
     description: "Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing."
     humanURL: https://iplogs.com/docs
-    baseURL: https://iplogs.com/docs
     tags:
       - Security
     properties:
